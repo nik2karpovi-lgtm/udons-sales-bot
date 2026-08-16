@@ -1,5 +1,10 @@
 {
   "name": "udons-sales-bot",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "redis": "^4.6.13",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
